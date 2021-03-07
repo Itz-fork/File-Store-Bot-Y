@@ -20,12 +20,12 @@ Send me any file I will save it in my Database. Also works for channel 😌️. 
 
 🔰️ **Developer:** **@NexaBotsUpdates** and **@Nexa_bots**
 
-👥 **Support Group:** [Linux Repositories](https://t.me/Nexa_bots)
+👥 **Support Group:** [Nexa Bots](https://t.me/Nexa_bots)
 
-📢 **Updates Channel:** [Discovery Projects](https://t.me/NexaBotsUpdates)
+📢 **Updates Channel:** [Nexa Bots Updates](https://t.me/NexaBotsUpdates)
 """
 	ABOUT_DEV_TEXT = f"""
-🧑🏻‍💻 **Developer:** @AbirHasan2005
+🧑🏻‍💻 **Developer:** **@NexaBotsUpdates** 😳
 
 Developer is Super **NOOB**! He is Trying to learn something New! While providing Some **FREE** bot services for You Guys ❤️! So please **DONATE** for keep this service alive ❤️!
 
