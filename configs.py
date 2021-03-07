@@ -16,7 +16,7 @@ class Config(object):
 Yo! I'm simple File Store Bot!
 Send me any file I will save it in my Database. Also works for channel 😌️. Add me to channel as Admin with Edit Permission, I will add Save Uploaded File in Channel & add Sharable Button Link.
 
-🤖 **My Name:** [Files Store Bot](https://t.me/{BOT_USERNAME})
+🤖 **My Name:** [Permanent File Store Nexa](https://t.me/{BOT_USERNAME})
 
 🔰️ **Developer:** **@NexaBotsUpdates** and **@Nexa_bots**
 
@@ -29,7 +29,7 @@ Send me any file I will save it in my Database. Also works for channel 😌️. 
 
 Developer is Super **NOOB**! He is Trying to learn something New! While providing Some **FREE** bot services for You Guys ❤️! So please **DONATE** for keep this service alive ❤️!
 
-[Donate Now](https://www.paypal.me/AbirHasan2005) (PayPal)
+[Donate Now](https://t.me/torrentolol/18) ❤️😌
 """
 	HOME_TEXT = """
 Hi, [{}](tg://user?id={})\n\nThis is **Perment File Store Nexa Bot**.
