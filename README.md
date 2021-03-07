@@ -1,5 +1,5 @@
 # PyroFilesStoreBot
-This is Telegram Files Store Bot by [@AbirHasan2005](https://github.com/AbirHasan2005).
+This is Telegram Files Store Bot by [@NexaBotsUpdates](https://github.com/NexaBotsUpdates).
 
 * Language: [Python3](https://www.python.org)
 * Library: [Pyrogram](https://docs.pyrogram.org)
@@ -25,7 +25,7 @@ This is Telegram Files Store Bot by [@AbirHasan2005](https://github.com/AbirHasa
 * `LOG_CHANNEL` - Logs Channel ID for some Tracking.
 
 ### Deploy Now:
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AbirHasan2005/PyroFilesStoreBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Hirusha-H/File-Store-Bot-Y)
 
 ## Commands:
 ```
