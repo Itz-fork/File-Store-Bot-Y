@@ -1,4 +1,5 @@
 # (c) @AbirHasan2005
+# (c) @Bruh_0x
 
 import os
 import time
