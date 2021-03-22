@@ -1,5 +1,6 @@
 # PyroFilesStoreBot
-This is Telegram Files Store Bot by [@NexaBotsUpdates](https://github.com/NexaBotsUpdates).
+This is Telegram Files Store Bot Edited by [@NexaBotsUpdates](https://github.com/NexaBotsUpdates).
+[owner](https://t.me/AbirHasan2005)
 
 * Language: [Python3](https://www.python.org)
 * Library: [Pyrogram](https://docs.pyrogram.org)
@@ -11,9 +12,6 @@ This is Telegram Files Store Bot by [@NexaBotsUpdates](https://github.com/NexaBo
 - In Channel Add Bot as Admin with Edit Rights. When you will send any file or media in Channel it will Edit the Broadcast Message with Saved Link Button.
 - You can also Broadcast anythings via this Bot.
 - You can also Do Force Sub to a Channel to allow access the Bot.
-
-### Demo Bot:
-<a href="https://t.me/SuperFilesStoreBot"><img src="https://img.shields.io/badge/Demo-Telegram%20Bot-blue.svg?logo=telegram"></a>
 
 ## Configs:
 * `API_ID` - Get this from [@TeleORG_Bot](https://t.me/TeleORG_Bot)
@@ -38,8 +36,9 @@ broadcast - Broadcast replied message to DB Users
 
 ### Support Group:
 <a href="https://t.me/linux_repo"><img src="https://img.shields.io/badge/Telegram-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
+[Contact Me](https://t.me/Nexa_bots)
 
-### Follow on:
+### Follow Abir hasan on:
 <p align="left">
 <a href="https://github.com/AbirHasan2005"><img src="https://img.shields.io/badge/GitHub-Follow%20on%20GitHub-inactive.svg?logo=github"></a>
 </p>
