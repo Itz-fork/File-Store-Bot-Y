@@ -1,6 +1,5 @@
 # PyroFilesStoreBot
-This is Telegram Files Store Bot Edited by [@NexaBotsUpdates](https://github.com/NexaBotsUpdates).
-[owner](https://t.me/AbirHasan2005)
+This is Telegram Files Store Bot Edited by **[This Code is Completely Owned By ABIRHASAN2005](https://t.me/AbirHasan2005)**
 
 * Language: [Python3](https://www.python.org)
 * Library: [Pyrogram](https://docs.pyrogram.org)
